@@ -3,9 +3,11 @@
 
 ## 安装方法
 方法1： clone本仓库然后执行脚本
+
 git clone https://github.com/zxzx1988/v2ray.git cd v2ray chmod +x install.sh ./install.sh local
 
 方法2：直接使用wget命令直接下载本仓库的脚本并执行
+
 wget -N --no-check-certificate "https://raw.githubusercontent.com/zxzx1988/v2ray/master/install.sh" && chmod +x install.sh && ./install.sh
 
 ## 脚本说明
